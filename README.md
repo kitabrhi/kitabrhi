@@ -38,7 +38,7 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/youssef-kitabrhi">
+  <a href="https://www.linkedin.com/in/youssef-kitabrhi-50477b2a7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kitabrhi.youssef.1@gmail.com">
