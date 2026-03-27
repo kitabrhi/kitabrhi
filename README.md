@@ -134,12 +134,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-1. <p align="center">
-2.   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-3. </p>
-4. 
-5. ---
-
 ⭐️ From [kitabrhi](https://github.com/kitabrhi)
