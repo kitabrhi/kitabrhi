@@ -10,3 +10,11 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-green)
 ![MySQL](https://img.shields.io/badge/mysql-blue)
 ![Git](https://img.shields.io/badge/git-orange)
+
+
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=kitabrhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kitabrhi&theme=dark&hide_border=false)
