@@ -17,6 +17,24 @@
 
 ---
 
+## 💼 Current Experience
+
+### 🧪 QA Automation & BDD Tester – Redsen (PFE)
+
+![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![BDD](https://img.shields.io/badge/BDD-Gherkin-green?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
+
+📍 Casablanca | 2026 – Present  
+
+✔ Create BDD scenarios (Given / When / Then)  
+✔ Automate tests using Cypress + TypeScript  
+✔ Identify and report bugs  
+✔ Work in Agile environment  
+✔ Ensure software quality  
+
+
 ## 🌐 Connect with me
 
 <p align="center">
