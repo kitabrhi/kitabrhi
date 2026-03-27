@@ -18,3 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=kitabrhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kitabrhi&theme=dark&hide_border=false)
+
+
+
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=kitabrhi&theme=github-dark)
