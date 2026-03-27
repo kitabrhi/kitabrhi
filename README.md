@@ -1,85 +1,127 @@
-# 👋 Hi, I'm Youssef Kitabrhi
+<!-- HEADER ANIMATION -->
+<h1 align="center">Hi 👋, I'm Youssef Kitabrhi</h1>
+<h3 align="center">💻 Software Engineering Student | Full-Stack Developer | QA Automation</h3>
 
-🎓 Élève ingénieur en informatique à l’EMSI  
-📍 Casablanca, Maroc  
-💡 Passionné par le développement web, les tests automatisés et les systèmes logiciels  
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/youssef-kitabrhi)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:kitabrhi.youssef.1@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;QA+Automation+Engineer;React+%7C+.NET+%7C+Laravel;Always+learning+new+things" />
+</p>
 
 ---
 
-## 💻 Tech Stack:
+## 🚀 About Me
 
-### 🖥️ Languages
-![Java](https://img.shields.io/badge/java-orange)
-![JavaScript](https://img.shields.io/badge/javascript-yellow)
-![PHP](https://img.shields.io/badge/php-blue)
-![C#](https://img.shields.io/badge/C%23-green)
+🎓 Engineering student at EMSI  
+📍 Casablanca, Morocco  
+💡 Passionate about building scalable web apps & automation testing  
+🎯 Goal: Pursue a Master's degree in France  
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/youssef-kitabrhi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kitabrhi.youssef.1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,php,cs" />
+</p>
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/react-blue)
-![Angular](https://img.shields.io/badge/angular-red)
-![HTML5](https://img.shields.io/badge/html5-orange)
-![CSS3](https://img.shields.io/badge/css3-blue)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,tailwind" />
+</p>
 
-### ⚙️ Backend & DB
-![.NET](https://img.shields.io/badge/.NET-purple)
-![Laravel](https://img.shields.io/badge/laravel-red)
-![MySQL](https://img.shields.io/badge/mysql-blue)
-![SQL Server](https://img.shields.io/badge/sqlserver-red)
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,mysql,postgres" />
+</p>
 
 ### 🧪 Testing & Tools
-![Cypress](https://img.shields.io/badge/cypress-black)
-![Git](https://img.shields.io/badge/git-orange)
-![Azure DevOps](https://img.shields.io/badge/azure-blue)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,azure,docker" />
+  <img src="https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=kitabrhi&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kitabrhi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitabrhi&theme=tokyonight" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kitabrhi&theme=dark)
-
----
-
-## 🚀 Projects:
-
-🔹 **Ticket Management System (.NET)**  
-→ Application multi-rôles pour gestion des tickets  
-
-🔹 **E-commerce Website (.NET)**  
-→ Plateforme complète avec gestion produits & commandes  
-
-🔹 **Sales Website (React + Laravel)**  
-→ Full-stack avec panier et promotions  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kitabrhi&theme=tokyo-night" />
+</p>
 
 ---
 
-## 💼 Experience:
+## 🚀 Featured Projects
 
-💼 **QA Automation Intern – Redsen**  
-→ Tests automatisés avec Cypress  
-→ Travail en Agile  
-
-💼 **Frontend Intern – Digieye**  
-→ Dashboard interactif avec React  
+### 🎫 Ticket Management System (.NET)
+✔ Multi-role system  
+✔ Clean architecture  
+✔ Real-world project  
 
 ---
 
-## 🎓 Certifications:
-
-🏅 Oracle Certified Professional – Java SE 17  
-
----
-
-## 💬 Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?theme=dark)
+### 🛒 E-commerce Platform (.NET)
+✔ Product management  
+✔ Orders & users  
+✔ Full-stack application  
 
 ---
 
-⭐ From [kitabrhi](https://github.com/kitabrhi)
+### 💸 Sales Website (React + Laravel)
+✔ Promotions system  
+✔ Shopping cart  
+✔ API integration  
+
+---
+
+## 💼 Experience
+
+💼 QA Automation Intern @ Redsen  
+→ Cypress testing  
+→ Agile / Scrum  
+
+💼 Frontend Intern @ Digieye  
+→ React dashboard  
+
+---
+
+## 🏆 Certifications
+
+🥇 Oracle Certified Professional – Java SE 17  
+
+---
+
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐️ From [kitabrhi](https://github.com/kitabrhi)
